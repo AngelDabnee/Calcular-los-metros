@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\bin\Debug\net6.0\Ejercicio 27. Metros que se necesitan.exe
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\bin\Debug\net6.0\Ejercicio 27. Metros que se necesitan.deps.json
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\bin\Debug\net6.0\Ejercicio 27. Metros que se necesitan.runtimeconfig.json
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\bin\Debug\net6.0\Ejercicio 27. Metros que se necesitan.dll
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\bin\Debug\net6.0\Ejercicio 27. Metros que se necesitan.pdb
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\obj\Debug\net6.0\Ejercicio 27. Metros que se necesitan.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\obj\Debug\net6.0\Ejercicio 27. Metros que se necesitan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\obj\Debug\net6.0\Ejercicio 27. Metros que se necesitan.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\obj\Debug\net6.0\Ejercicio 27. Metros que se necesitan.AssemblyInfo.cs
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\obj\Debug\net6.0\Ejercicio 27. Metros que se necesitan.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\obj\Debug\net6.0\Ejercicio 27. Metros que se necesitan.dll
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\obj\Debug\net6.0\refint\Ejercicio 27. Metros que se necesitan.dll
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\obj\Debug\net6.0\Ejercicio 27. Metros que se necesitan.pdb
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\obj\Debug\net6.0\Ejercicio 27. Metros que se necesitan.genruntimeconfig.cache
+C:\Users\master\source\repos\Ejercicio 27. Metros que se necesitan\Ejercicio 27. Metros que se necesitan\obj\Debug\net6.0\ref\Ejercicio 27. Metros que se necesitan.dll
